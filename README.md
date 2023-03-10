@@ -1,6 +1,5 @@
 # ESN_FORCE_Flipflop
 
-# N-step-Dueling-DDQN-PER-Pacman
 > Simulating the flip-flop task using Echo State Networks and FORCE learning
 
 ## Summary
