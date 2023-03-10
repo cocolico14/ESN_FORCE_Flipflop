@@ -22,9 +22,4 @@ In the second part, the online training algorithm known as FORCE learning is imp
   - Soheil Changizi ( [@cocolico14](https://github.com/cocolico14) )
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
-
-
 
